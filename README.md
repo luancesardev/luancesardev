@@ -20,5 +20,5 @@ Apaixonado por tecnologia e games sou programador há 8 anos com experiência em
 <br/>
 Desenvolvedor Front-End nas horas vagas em estudos com projetos freela para melhorar o conhecimento.
 <br/><br/>
-Programador VisualBasic e Oracle há 8 anos com experiência em ERP e automação de armazéns com tecnologia RFID.
+Programador VisualBasic e Oracle com experiência em ERP e automação de armazéns com tecnologia RFID.
 <br/>
