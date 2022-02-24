@@ -3,12 +3,7 @@
 
 Apaixonado por tecnologia e games, sou programador há 8 anos com experiência em desenvolvimento, análise, suporte e implantação.
 <br/>
-<br/>
-Desenvolvedor Front-End nas horas vagas em estudos com projetos freela para melhorar o conhecimento.
-<br/><br/>
-Programador VisualBasic e Oracle com experiência em ERP e automação de armazéns com tecnologia RFID.
-<br/>
-<br/>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-barbosa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luancsb)
