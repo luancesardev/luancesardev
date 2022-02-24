@@ -1,5 +1,5 @@
 ### Olá!
-### Eu sou o Luan Cesar seja bem vindo(a) ao meu perfil ✌️
+### Eu sou o Luan seja bem vindo(a) ao meu perfil ✌️
 
 Apaixonado por tecnologia e games, sou programador há 8 anos com experiência em desenvolvimento, análise, suporte e implantação.
 <br/>
