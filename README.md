@@ -1,9 +1,9 @@
-### Olá Eu sou o Luan Barbosa ✌️
+### Olá Eu sou o Luan Cesar ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-barbosa)
 
 
-![DevLuanBarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=devluanbarbosa&show_icons=true&theme=tokyonight)
+![DevLuanBarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=luancesardev&show_icons=true&theme=tokyonight)
 
 
 ### Tecnologias que eu uso no meu dia a dia
