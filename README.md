@@ -12,7 +12,6 @@
 </div>
   
 ![Snake animation](https://github.com/luancesardev/luancesardev/blob/output/github-contribution-grid-snake.svg)
-  
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
