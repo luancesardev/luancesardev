@@ -9,8 +9,8 @@ Apaixonado por tecnologia e games, sou programador há 8 anos com experiência e
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luancsb)
 <div>
   <a href="https://github.com/luancesardev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luancesardev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancesardev&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luancesardev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancesardev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ### Tecnologias que eu uso no meu dia a dia
