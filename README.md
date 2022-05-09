@@ -5,7 +5,6 @@
 - 🔭 Front-end Developer in Emsoft Brasil Informática Ltda.
 - ❤  I love technology, games and finance.
 - 🌱 Learning JavaScript / React
-- 📞 Contact: (35) 99863-1237
 
 ### 📊 GitHub Analytics
 
