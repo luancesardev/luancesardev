@@ -35,6 +35,4 @@
 <a href = "mailto:luancesardev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5535998631237&text=Ol%C3%A1+Luan%2C+estou+em+busca+de+um+desenvolvedor.&app_absent=0)
 
-  
-![Snake animation](https://github.com/luancesardev/luancesardev/blob/output/github-contribution-grid-snake.svg)
 
