@@ -2,9 +2,8 @@
 ### I'm Luan, welcome to my profile ✌️
 
 ##
-- 🔭 Front-end Developer in Emsoft Brasil Informática Ltda.
+- 🔭 Front-end Developer in Emsoft Solutions.
 - ❤  I love technology, games and finance.
-- 🌱 Learning JavaScript / React
 
 ### 📊 GitHub Analytics
 
